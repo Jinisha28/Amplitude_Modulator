@@ -1,0 +1,6 @@
+The AM modulation is a kind of modulation technique which is in use since the very early days of wireless data transmission.
+The amplitude modulation is the simplest modulation technique among the wide verity of modulation techniques in use. 
+The amplitude modulation of a high frequency signal is easy to achieve and the demodulation is also simple compared to other techniques. 
+The high frequency signal which is modulated to carry the low frequency audio signals are called ‘carrier frequency’ and the audio signals used for
+modulation is called ‘modulating signal’ or ‘message signal’ or ‘base band signal’.
+
